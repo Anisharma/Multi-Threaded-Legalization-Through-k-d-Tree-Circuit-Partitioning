@@ -1,0 +1,655 @@
+--------------------------------------------------------------------------------------------------------------------------------------------33320 -33208 33396 -33330
+Axis : 0
+33320 -33208 2706 -33330
+33320 -33208 33396 2706
+Axis : 1
+Axis : 1
+Axis : 1
+-952 -33208 33396 2706
+3033
+33320 -952 33396 2706
+Axis : 0
+33320 -952 18348 2706
+33320 -952 33396 18348
+Axis : 1
+-952 -33208 33396 2706
+3033
+-952 -33208 33396 2706
+3033
+33320 -952 33396 2706
+33320 -952 33396 2706
+Axis : 0
+Axis : 0
+13664 -952 33396 18348
+744
+33320 13664 33396 18348
+744 39
+start check
+
+  # row error: 0
+  # site error: 0
+  # overlap error: 0
+Check success!!
+726 29
+start check
+
+  # row error: 0
+  # site error: 0
+  # overlap error: 0
+Check success!!
+Axis : 1
+33320 -952 18348 2706
+33320 -952 18348 2706
+33320 -952 18348 2706
+33320 -952 33396 1366418348
+-952 18348 2706
+782
+0 -952 18348 2706
+33320 -952 33396 1366418348
+782
+33320 13664 18348 2706
+782 39
+33320 -952 33396 18348
+Axis : 1
+Axis : 1
+start check
+
+  # row error: 0
+  # site error: 0
+  # overlap error: 0
+Check success!!
+781 29
+13664 -952 33396 18348
+744
+33320 13664 33396 18348
+744 39
+start check
+
+  # row error: 0
+  # site error: 0
+  # overlap error: 0
+Check success!!
+13664 -952 33396 18348
+744
+33320 13664 33396 18348
+744 39
+Axis : 0
+start check
+
+  # row error: 0
+  # site error: 0
+  # overlap error: 0
+Check success!!
+726 29
+start check
+
+  # row error: 0
+  # site error: 0
+  # overlap error: 0
+Check success!!
+726 29
+start check
+
+  # row error: 0
+  # site error: 0
+  # overlap error: 0
+Check success!!
+start check
+
+Axis :  error: 
+
+  # s0t
+
+  # site error: Axis :  error: 
+
+  # s0t
+
+  # site error: 0
+  # overlap error: 0
+Check success!!
+Axis : 1
+-952 -33208 18018 2706
+-952 -33208 33396 18018
+Axis : 1
+13664 -952 18348 2706
+782
+33320 13664 18348 2706
+782 39
+13664 -952 18348 2706
+782
+33320 13664 18348 2706
+782 39
+-16576 start check
+-16576 start check
+-33208 33396 18018
+736
+
+  # row error: 0
+  # site error: 0
+  # overlap error: 0
+Check success!!
+-952 -16576 33396 18018
+736 31
+781 29
+start check
+start check
+start check
+
+  # row error: 0
+  # site error: 0
+  # overlap error: 0
+Check success!!sCheck success!!start check
+712 33
+
+
+
+0  # row error: 
+Check success!!
+
+0
+  # site error: 0
+  # overlap error: 0
+Check success!!
+Check success!!
+781 29
+Axis : 0
+start check
+
+  # row error: 0
+  # site error: 0
+  # overlap error: 0
+Check success!!
+Axis : 1
+start check
+
+  # row error: 0
+  # site error: 0
+  # overlap error: 0
+Check success!!
+Axis : 0
+-15568 -33208 18018 2706
+767
+-952 -15568 18018 2706
+767 29
+start check
+
+  # row error: 0
+  # site error: 0
+  # overlap error: 0
+Check success!!
+740 35
+-952 -33208 18018 2706
+-952 -33208 33396 18018
+Axis : 1
+start check
+
+  # row error: 0
+  # site error: 0
+  # overlap error: 0
+Check success!!
+Axis : 1
+-952 -33208 18018 2706
+-952 -33208 33396 18018
+Axis : 1
+-16576 -33208 33396 18018
+736
+-952 -16576 33396 18018
+736 31
+start check
+
+  # row error: 0
+  # site error: 0
+  # overlap error: 0
+Check success!!
+712 33
+-16576 -33208 33396 18018
+736
+-952 -16576 33396 18018
+736 31
+start check
+
+  # row error: 0
+  # site error: 0
+  # overlap error: 0
+Check success!!
+Axis : 1
+start check
+
+  # row error: 0
+  # site error: 0
+  # overlap error: 0
+Check success!!
+712 33
+start check
+
+  # row error: 0
+  # site error: 0
+  # overlap error: 0
+Check success!!
+Axis : 1
+-15568 -33208 18018 2706
+767
+-952 -15568 18018 2706
+767 29
+-952 -33208 2706 -33330
+3024
+33320 -952 2706 -33330
+Axis : 0
+start check
+
+  # row error: 0
+  # site error: 0
+  # overlap error: 0
+Check success!!
+740 35
+-15568 -33208 18018 2706
+767
+-952 -15568 18018 2706
+767 29
+33320 -952 -14256 -33330
+33320 -952 2706 -14256
+Axis : 1
+start check
+
+  # row error: 0
+  # site error: 0
+  # overlap error: 0
+Check success!!
+start check
+
+  # row error: 0
+  # site error: 0
+  # overlap error: 0
+Check success!!
+740 35
+13664 -952 2706 -14256
+785
+33320 13664 2706 -14256
+785 39
+Axis : 1
+start check
+
+  # row error: 0
+  # site error: 0
+  # overlap error: 0
+Check success!!
+start check
+
+  # row error: 0
+  # site error: 0
+  # overlap error: 0
+Check success!!
+773 29
+start check
+
+  # row error: 0
+  # site error: 0
+  # overlap error: 0
+Check success!!
+
+  # site error: 0
+  # overlap error: 0
+Axis : 1
+Check success!!
+Axis : 1
+13160 -952 -14256 -33330
+759
+33320 13160 -14256 -33330
+759 40
+start check
+
+  # row error: 0
+  # site error: 0
+  # overlap error: 0
+Check success!!
+707 28
+start check
+
+  # row error: 0
+  # site error: 0
+  # overlap error: 0
+Check success!!
+Axis : 0
+-952 -33208 -13926 -33330
+-952 -33208 -13926 -33330
+-952 -33208 2706 -33330
+3024
+-952 -33208 2706 -13926
+33320 -952 2706 -33330
+Axis : 1
+Axis : 0
+-952 -33208 2706 -33330
+3024
+33320 -952 2706 -33330
+-16072 -33208 2706 -13926
+743
+-952 -16072 2706 -13926
+743 30
+Axis : 0
+start check
+
+  # row error: 0
+  # site error: 0
+  # overlap error: 0
+Check success!!
+714 34
+33320 -952 -14256 -33330
+33320 -952 2706 -14256
+Axis : 1
+start check
+
+  # row error: 0
+  # site error: 0
+  # overlap error: 0
+Check success!!
+Axis : 1
+-14560 -33208 -13926 -33330
+785
+-952 -14560 -13926 -33330
+785 27
+33320 -952 -14256 -33330
+13664 -952 2706 -14256
+785
+33320 -952 13664 2706 2706 -14256
+-14256
+33320 -952 13664 2706 2706 -14256
+785 39
+Axis : 1
+start check
+
+  # row error: 0
+  # site error: 0
+  # overlap error: 0
+Check success!!
+774 37
+start check
+
+  # row error: 0
+  # site error: 0
+  # overlap error: 0
+Check success!!
+Hello World from thread = 0
+Hello World from thread = 0
+Hello World from thread = 1
+Hello World from thread = 2
+Hello World from thread = 0
+Hello World from thread = 0
+Hello World from thread = 0
+Hello World from thread = 0
+Hello World from thread = 0
+--------------------------------Solve Hello World from thread = 0
+Hello World from thread = 0
+--------------------------------Solve Hello World from thread = 0
+Hello World from thread = 0
+Hello World from thread = 0
+Hello World from thread = 0
+--------------------------------Solve Hello World from thread = 0
+Hello World from thread = 0
+Hello World from thread = 0
+--------------------------------Solve Hello World from thread = 0
+Hello World from thread = 0
+--------------------------------Solve Hello World from thread = 0
+Hello World from thread = 0
+--------------------------------Solve Hello World from thread = 0
+Hello World from thread = 0
+Hello World from thread = 0
+--------------------------------Solve Hello World from thread = 0
+Hello World from thread = 0
+--------------------------------Solve Hello World from thread = 0
+Hello World from thread = 0
+Hello World from thread = 0
+Hello World from thread = 0
+Hello World from thread = 0
+--------------------------------Solve Hello World from thread = 0
+Hello World from thread = 0
+--------------------------------Solve Hello World from thread = 0
+Hello World from thread = 0
+Hello World from thread = 0
+--------------------------------Solve Hello World from thread = 0
+--------------------------------Solve Hello World from thread = 0
+Hello World from thread = 0
+--------------------------------Solve Hello World from thread = 0
+Hello World from thread = 0
+--------------------------------Solve Hello World from thread = 0
+Hello World from thread = 0
+Hello World from thread = 0
+Hello World from thread = 0
+Hello World from thread = 0
+--------------------------------Solve Hello World from thread = 0
+Hello World from thread = 0
+--------------------------------Solve Hello World from thread = 0
+Hello World from thread = 0
+Hello World from thread = 0
+Hello World from thread = 0
+Hello World from thread = 0
+--------------------------------Solve Hello World from thread = 0
+Hello World from thread = 0
+--------------------------------Solve Hello World from thread = 0
+Hello World from thread = 0
+--------------------------------Solve Hello World from thread = 0
+Hello World from thread = 0
+Hello World from thread = 0
+--------------------------------Solve Hello World from thread = 0
+Hello World from thread = 0
+Hello World from thread = 0
+--------------------------------Solve Hello World from thread = 0
+Hello World from thread = 0
+Hello World from thread = 0
+--------------------------------Solve Hello World from thread = 0
+Hello World from thread = 0
+--------------------------------Solve Hello World from thread = 0
+Hello World from thread = 0
+Hello World from thread = 0
+--------------------------------Solve Hello World from thread = 0
+Hello World from thread = 1
+Hello World from thread = 0
+--------------------------------Solve Hello World from thread = 0
+Hello World from thread = 0
+--------------------------------Solve Hello World from thread = 0
+Hello World from thread = 2
+Hello World from thread = 0
+Hello World from thread = 0
+--------------------------------Solve Hello World from thread = 0
+Hello World from thread = 0
+--------------------------------Solve Hello World from thread = 0
+Hello World from thread = 0
+Hello World from thread = 0
+Hello World from thread = 0
+Hello World from thread = 0
+Hello World from thread = 0
+--------------------------------Solve Hello World from thread = 0
+Hello World from thread = 0
+--------------------------------Solve Hello World from thread = 0
+Hello World from thread = 0
+Hello World from thread = 0
+Hello World from thread = 0
+--------------------------------Solve Hello World from thread = 0
+Hello World from thread = 0
+Hello World from thread = 0
+--------------------------------Solve Hello World from thread = 0
+Hello World from thread = 0
+--------------------------------Solve Hello World from thread = 0
+Hello World fr773 29
+start check
+
+  # row error: 0
+  # site error: 0
+  # overlap error: 0
+Check success!!
+13664 -952 2706 -14256
+785
+33320 13664 2706 -14256
+785 39
+start check
+
+  # row error: 0
+  # site error: 0
+  # overlap error: 0
+Check success!!
+Axis : 1
+start check
+
+  # row error: 0
+  # site error: 0
+  # overlap error: 0
+Check success!!
+773 29
+13160 -952 -14256 -33330
+759
+33320 13160 -14256 -33330
+759 40
+start check
+
+  # row error: 0
+  # site error: 0
+  # overlap error: 0
+Check success!!
+Axis : 1
+start check
+
+  # row error: 0
+  # site error: 0
+  # overlap error: 0
+Check success!!
+707 28
+start check
+-14256 -33330
+759
+
+  # row error: 0
+  # site error: 0
+  # overlap error: 0
+Check success!!
+33320 13160 -14256 33320 13160 -14256 -33330
+759 40
+Axis : 0
+start check
+
+  # row error: 0
+  # site error: 0
+  # overlap error: 0
+Check success!!
+707 28
+start check
+
+  # row error: 0
+  # site error: 0
+  # overlap error: 0
+Check success!!
+Axis : 0
+-952 -33208 -13926 -33330
+-952 -33208 2706 -13926
+Axis : 1
+-16072 -33208 2706 -13926
+743
+-952 -16072 2706 -13926
+743 30
+-952 -33208 -13926 -33330
+-952 -33208 2706 -13926
+Axis : 1
+start check
+
+  # row error: 0
+  # site error: 0
+  # overlap error: 0
+Check success!!
+714 34
+-16072 -33208 2706 -13926
+743
+743
+start check
+-952 -16072 2706 -13926
+743 30
+
+  # row error: 0
+  # site error: 0
+  # overlap error: 0
+Check success!!
+Axis : 1
+start check
+
+  # row error: 0
+  # site error: 0
+  # overlap error: 0
+Check success!!
+714 34
+-14560 -33208 -13926 -33330
+785
+-952 -14560 -13926 -33330
+785 27
+start check
+
+  # row error: 0
+  # site error: 0
+  # overlap error: 0
+Check success!!
+Axis : 1
+start check
+
+  # row error: 0
+  # site error: 0
+  # overlap error: 0
+Check success!!
+774 37
+-14560 -33208 -13926 -33330
+785
+-952 -14560 -13926 -33330
+785 27
+start check
+
+  # row error: 0
+  # site error: 0
+  # overlap error: 0
+Check success!!
+start check
+
+  # row error: 0
+  # site error: 0
+  # overlap error: 0
+Check success!!
+774 37
+start check
+
+  # row error: 0
+  # site error: 0
+  # overlap error: 0
+Check success!!
+fully legalized 
+om thread = 0
+--------------------------------Solve Hello World from thread = 0
+Hello World from thread = 0
+--------------------------------Solve Hello World from thread = 0
+Hello World from thread = 0
+Hello World from thread = 0
+--------------------------------Solve Hello World from thread = 0
+Hello World from thread = 0
+--------------------------------Solve Hello World from thread = 0
+Hello World from thread = 0
+Hello World from thread = 0
+--------------------------------Solve Hello World from thread = 0
+Hello World from thread = 0
+--------------------------------Solve Hello World from thread = 0
+Hello World from thread = 0
+Hello World from thread = 0
+--------------------------------Solve Hello World from thread = 0
+Hello World from thread = 0
+Hello World from thread = 0
+Hello World from thread = 0
+--------------------------------Solve Hello World from thread = 0
+Hello World from thread = 0
+Hello World from thread = 0
+--------------------------------Solve Hello World from thread = 0
+Hello World from thread = 0
+--------------------------------Solve Hello World from thread = 0
+Hello World from thread = 0
+Hello World from thread = 0
+--------------------------------Solve Hello World from thread = 0
+Hello World from thread = 0
+--------------------------------Solve Hello World from thread = 0
+Hello World from thread = 0
+Hello World from thread = 0
+--------------------------------Solve Hello World from thread = 0
+Hello World from thread = 0
+--------------------------------Solve Hello World from thread = 0
+Hello World from thread = 0
+--------------------------------Solve Hello World from thread = 0

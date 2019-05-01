@@ -1,0 +1,178 @@
+62048 -61936 62238 -62172
+Current level of tree 0
+Dimensions of tree level TOP : 62048 BOTTOM : -61936 LEFT : -62172 RIGHT : 62238
+62048 -61936 2112 -62172
+62048 -61936 62238 2112
+Current level of tree 2
+
+TOP : 62048 BOTTOM 1 
+Dimensions of tree level TOP : 62048 BOTTOM : -Dimensions of tree level TOP : 62048 BOTTOM : -61936 LEFT : -62172 RIGHT : 2112Dimensions of tree level TOP : 62048 BOTTOM : -61936 LEFT : -62172 RIGHT : 2112
+560 -61936 62238 2112
+62048 560 62238 2112
+Current level of tree 2
+Dimensions of tree level TOP : 62048 BOTTOM : 56Dimensions of tree level TOP : 560 BOTTOM : -61936 LEFT : 2112 RIGHT : 62238
+Dimensions of tree level TOP : 560 BOTTOM : -61936 LEFT : 2112 RIGHT : 6223856 -61936 2112 -62172
+62048 56 2112 -62172
+560 -61936 30096 2112
+560 -61936 62238 30096
+Current level of tree Current level of tree 36
+Dimensions of tree level TOP : 560 BOTTOM : 36
+Dimensions of tree level TOP : 560 BOTTOM : -61936 LEFT : 2112 RIGHT : 30096
+Dimensions of tree level TOP : 560 BOTTOM : -61936 LEFT : 2112 RIGHT : 30096
+
+Current level of tree 2
+Dimensions of tree level TOP : 62048 BOTTOM : 56 LEFT : -62172 RIGHT : 2112
+62048 560 30294 2112
+vel TOP : 62048 BOTTOM : 56Dimensions of tree level TOP : 56 BOTTOM : -61936 LEFT : -62172 RIGHT : 2112
+Dimensions of tree le62048 560 62238 30294
+-26656 -61936 30096 2112
+560 -26656 30096 2112
+-28168 -61936 62238 30096
+560 -28168 62238 30096
+Current level of tree 4
+Current level of tree 4
+Current level of tree 4
+Dimensions of tree level TOP : -28168 BOTTOM : -61936 LEFT : 30096 RIGHT : 62238
+Dimensions of tree level TOP : 560 BOTTOM : -28168 LEFT : 30096 RIGHT : 62238
+Current level of tree 4
+Dimensions of tree level TOP : 560 BOTTOM : -26656 LEFT : 2112 RIGHT : 30096
+Dimensions of tree level TOP : 560 BOTTOM : -266Dimensions of tree level TOP : -26656 BOTTOM : -61936 LEFT : 2112 RIGHT : 30096
+62048 56 -26862 -62172
+62048 56 2112 -26862
+Current level of tree 3
+Dimensions of tree level TOP : 62048 BOTTOM : 560 LEFT : 2112 RIGHT : 30294
+Dimensions of tree level TOP : 62048 BOTTOM : 56Dimensions of tree level TOP : 62048 BOTTOM : 560 LEFT : 30294 RIGHT : 62238
+56 -61936 -26598 -62172
+56 -61936 2112 -26598
+Current level of tree 3
+Dimensions of tree level TOP : 56 BOTTOM : -61936 LEFT : -26598 RIGHT : 2112
+Current level of tree 3
+Current level of tree 3
+Dimensions of tree level TOP : 56 BOTTOM : -61936 LEFT : -62172 RIGHT : -26598
+Dimensions of tree levelDimensions of tree level TOP : 62048 BOTTOM : 56 LEFT : -26862 RIGHT : 2112
+Dimensions of tree level TOP : 62048 BOTTOM : 56Dimensions of tree level TOP : 62048 BOTTOM : 56 LEFT : -62172 RIGHT : -26862
+Dimensions of tree level TOP : 62048 BOTTOM : 56 LEFT : -62172 RIGHT : -26862
+-26152 -61936 2112 -26598
+Dimensions of tree level TOP : 62048 BOTTOM : 56 LEFT : -62172 RIGHT Dimensions of tree level TOP : 62048 BOTTOM : 56 LEFT : -62172 RIGHT : -26862
+-26152 -6193662048 27776 62238 30294
+62048 25256 30294 2112
+56 -26152 2112 -26598
+-26152 -61936 -26598 -62172
+56 -26152 -26598 -62172
+25256 56 2112 -26862
+62048 25256 2112 -26862
+Current level of tree Current level of tree 4
+4
+Dimensions of tree level TOP : 62048 BOTTOM : 25256 LEFT : 2112 RIGHT : 30294
+Dimensions of tree level TOP : 62048 BOTTOM : 2Dimensions of tree level TOP : 25256 BOTTOM : 560 LEFT : 2112 RIGHT : 30294
+Dimensions of tree level TOP : 25256 BOTTOM : 560 LEFT : 2112 RIGHT : 30294
+Current level of tree 4
+Dimensions of tree level TOP : 56 BOTTOM : -26152 LEFT : -62172 RIGHT : -26598
+Dimensions of tree level TOP : 56 BOTTOM : -26152 LEFT : -62172 RIGHT : -26598
+rent level of tree 4
+Current level of tree 4
+Dimensions of tree level TOP : Current level of tree 4
+Dimensions of tree level TOP : Current level of tree 4
+-26152 BOTTOM : -61936 LEFT : -62172 RIGHT : -26598
+Dimensions of tree level TOP : Current level of tree 4
+-26152 BOTTOM : -61936 LEFT : -62172 RIGHT : -26598
+Current level of tree 4
+Dimensions of tree level TOP : 27776 BOTTOM : 560 LEFT : 30294 RIGHT : 62238
+Dimensions of tree level TOP : 27776 BOTTOM : 560 LEFT : 30294 RIGHT : 62238
+Current level of tree 4
+Current level of tree 4
+Dimensions of tree level TOP : 56 BOTTOM : -26152 LEFT : -26598 RIGHT : 2112
+8
+rrent level of tree 4
+Dimensions of tree level TOP : -26152 BOTTOM : -61936 LEFT : -26598 RIGHT : 2112
+Dimensions of tree level TOP : -26152 BOTTOM : -61936 LEFT : -26598 RIGHT : 211Dimensions of tree level TOP : -26152 BOTTOM : -61936 LEFT : -26598 RIGHT : 2Current level of tree 4
+Dimensions of tree level TOP : 25256 BOTTOM : 56 LEFT : -26862 RIGHT : 2112
+Dimensions of tree level TOP : 25256 BOTTOM : 56Dimensions of tree leveDimensions of tree level TOP : 62048 BOTTOM : 25256 LEFT : -26862 RIGHT : 2112
+62048 24752 -26862 -62172
+Current level of tree 4
+Current level of tree 4
+Current level of tree 4
+Dimensions of tree level TOP : 24752 BOTTOM : 56 LEFT : -62172 RIGHT : -26862
+Dimensions of tree level TOP : 62048 BOTTOM : 24752 LEFT : -62172 RIGHT : -26862
+
+  # row error: 0
+  # site error: 0
+  # overlap error: 0
+Check success!!
+
+  # row error: 0
+  # site error: 0
+  # overlap error: 0
+Check success!!
+
+  # row error: 0
+  # site error: 0
+  # overlap error: 0
+Check success!!
+Check success!!
+
+  # row error: 0
+  # site error: 0
+  # overlap error: 0
+Check success!!
+
+  # row error: 0
+  # site error: 0
+  # overlap error: 0
+Check success!!
+
+  # row error: 0
+  # site error: 0
+  # overlap error: 0
+Check success!!
+
+  # row error: 0
+  # site error: 0
+  # overlap error: 0
+Check success!!
+
+  # row error: 0
+  # site error: 0
+  # overlap error: 0
+Check success!!
+
+  # row error: 0
+  # site error: 0
+  # overlap error: 0
+Check success!!
+
+   # row error: 0
+  # site error: 0
+  # overlap error: 0
+Check success!!
+
+  # row error: 0
+  # site error: 0
+  # overlap error: 0
+Check success!!
+
+  # row error: 0
+  # site error: 0
+  # overlap error: 0
+Check success!!
+
+  # row error: 0
+  # site error: 0
+  # overlap error: 0
+C
+  # row error: 0
+  # site error: 0
+  # overlap error: 0
+Check success!!
+Check success!!
+
+  # row error: 0
+  # site error: 0
+  # overlap error: 0
+Check success!!
+
+  # row error: 0
+  # site error: 0
+  # overlap error: 0
+Check success!!
+fully legalized 
