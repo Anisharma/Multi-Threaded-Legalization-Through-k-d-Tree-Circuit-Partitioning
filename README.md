@@ -3,8 +3,8 @@
 *Generated result for case "ibm01"*
 
 # Enhancing Multi-Threaded Legalization Through k-d Tree Circuit Partitioning
--https://hal.inria.fr/hal-01872451/file/kd-tree_partitioning.pdf (Enhancing Multi-Threaded Legalization Through k-d
-Tree Circuit Partitioning)
+-[Enhancing Multi-Threaded Legalization Through k-d
+Tree Circuit Partitioning](https://hal.inria.fr/hal-01872451/file/kd-tree_partitioning.pdf)
 - [Abacus: Fast legalization of standard cell circuits with minimal movement](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5642689)
 -  [Fast Legalization for Standard Cell Placement with Simultaneous Wirelength and Displacement Minimization](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5642689)
 
