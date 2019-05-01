@@ -2,7 +2,9 @@
 
 *Generated result for case "ibm01"*
 
-# Abacus-Based Legalizer for Solving Single-Cell Height Legalization
+# Enhancing Multi-Threaded Legalization Through k-d Tree Circuit Partitioning
+-https://hal.inria.fr/hal-01872451/file/kd-tree_partitioning.pdf (Enhancing Multi-Threaded Legalization Through k-d
+Tree Circuit Partitioning)
 - [Abacus: Fast legalization of standard cell circuits with minimal movement](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5642689)
 -  [Fast Legalization for Standard Cell Placement with Simultaneous Wirelength and Displacement Minimization](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5642689)
 
@@ -18,14 +20,16 @@
 - `Makefile`: A Makefile to generate an executable binary
 
 ## Compilation
-1. Type `make` in the current directory.
-2. A binary program `legalizer` will be generated with compilation flag: `g++ -std=c++11 -O3 -fopenmp -ffast-math -DUSE_OPENMP`.
+1. Delete CMakeCache.txt file from src folder. 
+2. Type `make` in the current directory.
+3. A binary program `legalizer` will be generated with compilation flag: `g++ -std=c++11 -O3 -fopenmp -ffast-math -DUSE_OPENMP`.
 
 ## Usage
 To generate a result, type
 ```
-./legalizer -aux <input>.aux [--plot] [--check]
+./legalizer -aux <input>.aux [--plot] [--check] [X -thread]
 ```
+- X is Number of threads 
 - `--plot` will output a gnuplot `<input>.plt` for visualization.
 - `--check` will check whether the solution is legal or not.
 - After running, an output file named `<input>.pl` will be saved in the current directory.
